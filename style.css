@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+}
+
+.top{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 7%;
+}
+h1{
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Rubik Microbe', cursive;
+}
+h3{
+    font-size: 1.5rem;
+    font-family: 'EB Garamond', serif;
+    color: tomato;
+}
+.responsive-1{
+    text-align: left;
+}
+.responsive{
+  max-width: 20%;
+  position: relative;
+  bottom: 25rem;
+}
+.responsive-2{
+    text-align: right;
+}
+.responsive3{
+    max-width: 20%;
+    position: relative;
+    bottom: 54.6875rem;
+}
+.kanishka{
+    max-width: 40%;
+    height: auto;
+    border-radius: 10%;
+    position: relative;
+    bottom: 21.875rem;
+    left: 1rem;
+}
+.kanishka-23{
+    text-align: right;
+}
+.kanishka-2{
+    max-width: 15%;
+    height: auto;
+    border-radius: 10%;
+    position: relative;
+    bottom: 65.625rem;
+    right: 1rem;
+    
+}
+.moon{
+    text-align: center;
+}
+.moon1{
+    max-width: 20%;
+    height: auto;
+    position: relative;
+    bottom: 1150px;
+    border-radius: 10%;
+}
+.kanishka22{
+  
+}
+.kanishka12{
+    max-width: 15%;
+    border-radius: 10%;
+    position: relative;
+    bottom: 950px;
+    left: 1rem;
+}
+.kanishka500{
+    text-align: right;
+}
+.kanishka501{
+    max-width: 20%;
+    border-radius: 10%;
+    position: relative;
+    bottom: 1390px;
+    right: 1rem;
+}
+
+    
